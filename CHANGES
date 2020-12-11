@@ -1,3 +1,5 @@
+1.2.4 2020-12-11
+  - remove .bidsignore and anonymize data and write FLASH MRI properly
 1.2.3 2020-12-10
   - anonymize data, get rid of .bidsignore
 1.2.2 2020-10-13
